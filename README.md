@@ -1,6 +1,8 @@
 README
 ======
 
+This is a forked project from MDwiki
+
 First things first
 ------------------
 
